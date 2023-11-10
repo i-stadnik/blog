@@ -4,6 +4,7 @@ type PostType = {
   slug: string
   title: string
   date: string
+  tags: any
   coverImage: string
   author: Author
   excerpt: string
